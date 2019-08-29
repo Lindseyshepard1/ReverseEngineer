@@ -1,6 +1,6 @@
 using System;
 
-namespace EFGetStarted.AspNetCore.ExistingDb.Models
+namespace WinterReverse.Models
 {
     public class ErrorViewModel
     {

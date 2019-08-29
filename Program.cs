@@ -7,8 +7,9 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using WinterReverse.Models;
 
-namespace EFGetStarted.AspNetCore.ExistingDb
+namespace WinterReverse
 {
     public class Program
     {

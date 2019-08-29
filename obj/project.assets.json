@@ -12999,11 +12999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\ReverseEngineering\\EFGetStarted.AspNetCore.ExistingDb\\EFGetStarted.AspNetCore.ExistingDb.csproj",
-      "projectName": "EFGetStarted.AspNetCore.ExistingDb",
-      "projectPath": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\ReverseEngineering\\EFGetStarted.AspNetCore.ExistingDb\\EFGetStarted.AspNetCore.ExistingDb.csproj",
+      "projectUniqueName": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\WinteringPrototype\\ReverseWinter\\WinterReverse\\WinterReverse.csproj",
+      "projectName": "WinterReverse",
+      "projectPath": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\WinteringPrototype\\ReverseWinter\\WinterReverse\\WinterReverse.csproj",
       "packagesPath": "C:\\Users\\linds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\ReverseEngineering\\EFGetStarted.AspNetCore.ExistingDb\\obj\\",
+      "outputPath": "C:\\Users\\linds\\Desktop\\ASP.NET coursework\\WinteringPrototype\\ReverseWinter\\WinterReverse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
